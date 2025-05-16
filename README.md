@@ -75,7 +75,7 @@ python pc.py
 - `time`和`sys`：用于控制爬取进度和输出
 
 ## 贡献
-欢迎提交问题、建议和拉去请求。如果你有好的想法或功能建议，请题 Issue 或直接发送 Pull Request.
+欢迎提交问题、建议和拉取请求。如果你有好的想法或功能建议，请题 Issue 或直接发送 Pull Request.
 
 ## LICENSE
 MIT LECENSE
